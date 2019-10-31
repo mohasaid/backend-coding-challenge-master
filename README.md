@@ -4,18 +4,18 @@ You can find [here](CHALLENGE.md) the instructions of the challenge. It is basic
 
 ### Summary
 
-As I did not have too much time to develop the coding challenge, I tried to focus on the code and the use cases (structure, tests, etc) following DDD. 
-I made some assumptions that were not in the instructions and there are some things that I would like to improve if I had more time. 
+As I did not have too much time to develop the coding challenge, I tried to focus on the code and the use cases (structure, tests, etc) following [DDD](https://en.wikipedia.org/wiki/Domain-driven_design). 
+I made some considerations that were not in the instructions and there are some things that I would like to improve if I had more time. 
 
 If you have any doubt don't hesitate to contact me.
 
-### Assumptions
+### Considerations
 
 - User needs to be authenticated to perform actions.
 - Password does not need encoding.
 
 
-### Post work 
+### Improvements 
 
 - Document the API with swagger
 - Configure logger and add logs
