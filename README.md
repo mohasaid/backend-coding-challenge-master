@@ -19,7 +19,7 @@ If you have any doubt don't hesitate to contact me.
 
 - Document the API with swagger
 - Configure logger and add logs
-- Deploy it on heroku using travis as CI/CD tool (I usually do this, you can check my other repos in github)
+- Deploy it on heroku using travis as CI/CD tool
 
 
 ## Build & Run
