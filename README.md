@@ -4,7 +4,7 @@ You can find [here](CHALLENGE.md) the instructions of the challenge. It is basic
 
 ### Summary
 
-As I did not have too much time to develop the coding challenge, I tried to focus on the code and the use cases (structure, tests, etc) following [DDD](https://en.wikipedia.org/wiki/Domain-driven_design). 
+As I did not have too much time to develop the coding challenge, I tried to focus on the code and the use cases (structure, tests, etc) following [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) and [hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)). 
 I made some considerations that were not in the instructions and there are some things that I would like to improve if I had more time. 
 
 If you have any doubt don't hesitate to contact me.
